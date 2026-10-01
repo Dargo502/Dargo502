@@ -26,14 +26,16 @@ Cuando no estoy programando o estudiando, disfruto de mis otras grandes pasiones
 
 ## 💻 Habilidades Técnicas y Tecnologías
 
-### ▪ Desarrollo de Software
-* **Lenguajes:** HTML, CSS, JavaScript, Python, C#, PHP, Java, SQL. (Mejorando un poco cada día)
-* **Paradigmas y Conceptos:** Programación Orientada a Objetos (POO), REST APIs.
-* **Control de Versiones:** Git y GitHub.
+### ▪ Desarrollo Backend y Lenguajes
+* **Ecosistema JVM & Backend:** Java, Kotlin *(en aprendizaje activo & Hands-On con IntelliJ IDEA)*, C#, PHP, Python.
+* **Bases de Datos & SQL:** SQL Server, T-SQL, modelado relacional y optimización de consultas.
+* **Web & APIs:** Arquitectura REST APIs, consumo/creación de servicios HTTP, JSON, HTML5, CSS3, JavaScript.
+* **Paradigmas y Buenas Prácticas:** Programación Orientada a Objetos (POO), arquitectura en capas, patrones de diseño básicos.
+* **Herramientas & Control de Versiones:** Git, GitHub, IntelliJ IDEA, Visual Studio, VS Code, Postman, Swagger.
 
-### ▪ Sistemas y Redes
-* **Linux:** Experiencia práctica utilizando **Linux Ubuntu (Server Edition)** en proyectos universitarios.
-* **Administración de Servidores:** Conocimiento sólido en **Windows Server**.
+### ▪ Infraestructura, Sistemas y Redes
+* **Linux & Servidores:** Experiencia práctica en **Linux Ubuntu (Server Edition)** y administración de **Windows Server**.
+* **Redes:** Conocimientos en enrutamiento, conmutación y direccionamiento IP.
 
 ---
 
@@ -50,20 +52,19 @@ Cuando no estoy programando o estudiando, disfruto de mis otras grandes pasiones
 
 Mi camino profesional también se ha enriquecido a través de la enseñanza. Impartir clases me ha ayudado a perfeccionar mis habilidades de comunicación, paciencia, liderazgo y estructuración de problemas:
 
-* 🇬🇧 **Profesor de Inglés** | *Universidad Galileo (Sede Amatitlán)* — **5 años**
-* 🇬🇧 **Profesor de Inglés** | *Academia Liaison (Amatitlán)* — **2 años**
-* 🇩🇪 **Profesor de Alemán** | *CALUSAC* — **3 años**
+* <img src="https://flagcdn.com/24x18/gb.png" alt="UK Flag" width="20"/> **Profesor de Inglés** | *Universidad Galileo (Sede Amatitlán)* — **5 años**
+* <img src="https://flagcdn.com/24x18/gb.png" alt="UK Flag" width="20"/> **Profesor de Inglés** | *Academia Liaison (Amatitlán)* — **2 años**
+* <img src="https://flagcdn.com/24x18/de.png" alt="Germany Flag" width="20"/> **Profesor de Alemán** | *CALUSAC* — **3 años**
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Dominio Lingüístico y Formación Continuada
 
-Me desenvuelvo con facilidad en entornos multiculturales gracias a mi dominio lingüístico:
 * **Español:** Nativo
-* **Inglés:** C1
-* **Alemán:** B2
-* **Francés:** B1
-* **Japonés:** A1
+* **Inglés:** C1 *(Avanzado / Profesional)*
+* **Alemán:** B2 *(Intermedio Alto)*
+* **Francés:** B1 *(Intermedio)*
+* **Japonés:** A1 *(Autodidacta a través de la plataforma JF Minato — Japan Foundation)*
 
 ---
 
