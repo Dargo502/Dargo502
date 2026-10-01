@@ -8,7 +8,7 @@ Bienvenidos a mi espacio de GitHub. Soy un apasionado por la tecnología, el art
 
 Aquí puedes explorar mis trabajos actuales, proyectos académicos y acceder a mi hoja de vida interactiva:
 
-* 🌐 **[Ver mi CV / Portafolio en Vivo](https://dariorabe.github.io/)** — *Mi sitio web profesional con diseño adaptativo.*
+* 🌐 **[Ver mi CV en Vivo](https://dariorabe.github.io/)** — *Mi sitio web profesional con diseño adaptativo.*
 * 📁 **[Explorar todos mis Repositorios](https://github.com/Dargo502?tab=repositories)** — *Acceso directo a mis proyectos de código, laboratorios y ejercicios prácticos.*
 
 ---
